@@ -6,7 +6,7 @@
 	utilize the PreparedStatement interface instead. We create a method for connection. 
 	When you create an insert query, it's necessary to create an execute query. */
 
-// SUCCESSFULLY CREATED DB TABLE "student" 
+// SUCCESSFULLY CREATED DATABASE TABLE "student" 
 
 package Java_Main;
 
