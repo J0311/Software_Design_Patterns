@@ -4,7 +4,7 @@
 	In this example, we create a method and we create an insert method on that method.
 	When you perform an insert query in JDBC, do not use "Statement" interface. Here, we 
 	utilize the PreparedStatement interface instead. We create a method for connection. 
-	When you create an insert query, it's necessary to create an execute query. */
+	When you create an insert query, it's necessary to create an execute query.  */
 
 // SUCCESSFULLY CREATED DATABASE TABLE "student" 
 
