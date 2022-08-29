@@ -4,6 +4,7 @@ package Java_Main;
 // We will use the student roll number variable (rollno) to access our data base
 // table and retrieve the student name.
 
+
 public class Student {
 
 	public String sname;
